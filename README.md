@@ -1,5 +1,5 @@
 # Machine-Learning-Fundementals
-A repository that contains assignments from two fourth year courses from School of Electrical Engineering University of Belgrade
+A repository that contains assignments of fundemental ML courses from The School of Electrical Engineering University of Belgrade
 
 1. Classification algortihm implementations:
 * Bayesian classificators implementation. 
