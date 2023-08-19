@@ -10,5 +10,5 @@ A repository that contains assignments from two fourth year courses from School 
 * Bayesian classificators
 * Parameter(Linear, quadratic) classificators
 * Waldo's Sequantial hypothesis test
-* Maximum Likelyhood and K-Mean clusterizations algorithms
+* Maximum Likelihood and K-Mean clusterizations algorithms
 * Known output classificators
