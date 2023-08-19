@@ -3,6 +3,7 @@ A repository that contains assignments from two fourth year courses from School 
 
 1. Speech recognition using:
 * Short term energy and Zero crossing count for word segmentation
+* Pitch frequency estimation, implementing 
 * LPC coeffs. as features
 * K-Nearest Neighbour for classification
 
