@@ -3,13 +3,15 @@ A repository that contains assignments from two fourth year courses from School 
 
 1. Speech recognition using:
 * Short term energy and Zero crossing count for word segmentation
-* Pitch frequency estimation, implementing 
+* Pitch frequency estimation, implementing paralel process and a autocorrelation estimator.
+* Implementations of delta and compounding quantizers. 
 * LPC coeffs. as features
 * K-Nearest Neighbour for classification
 
 2. Classification algortihm implementations:
-* Bayesian classificators
-* Parameter(Linear, quadratic) classificators
+* Bayesian classificators implementation. 
+* Hypothesis based classificators implementation. 
+* Parameter(Linear, quadratic) classificators implementation. 
 * Waldo's Sequantial hypothesis test
 * Maximum Likelihood and K-Mean clusterizations algorithms
 * Known output classificators
